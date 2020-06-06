@@ -1,0 +1,39 @@
+
+.zip ul li{
+    display: inline-block;
+    
+    border: 3px solid black;
+ margin: 10px;
+border-radius: 3px;
+float: right;
+}
+
+.zip ul li a{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    list-style:none;
+    text-align: center;
+    width: 100%;
+
+}
+
+
+
+.hd{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 85px ;
+    margin-left: 350px;
+}
+
+
+.aboutus{
+    background-image: url(https://thumbs.dreamstime.com/b/law-jurisprudence-concept-judge-gavel-dark-wooden-background-top-view-copy-space-law-jurisprudence-concept-judge-gavel-117744157.jpg);
+background-size: cover;
+height: 100%;
+
+
+
+
+}

@@ -1,0 +1,35 @@
+.main{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 120px;
+}
+
+
+.card{
+    margin: 30px;
+}
+
+.gallery{
+    background-image: url(https://lh3.googleusercontent.com/proxy/eZ3Yb_4nBSGFf-cOl6wfQHCrALZZoEJTNd4OAhNVMNK9ZyOT4gCX795oGYSXfvZ6-ewgEKfDg4aR9LB0w8I5aq317edglvu1IzKX7NSblfzn81PuchSgkQxouPFjOgxzOIs0E4NNzKzbqtnMWCOOWLFgdiiCpYoGimCQNTWKL5x0zw);
+    background-size: cover;
+
+}
+
+.zip ul li{
+    display: inline-block;
+    
+    border: 3px solid black;
+ margin: 10px;
+border-radius: 3px;
+float: right;
+}
+
+.zip ul li a{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    list-style:none;
+    text-align: center;
+    width: 100%;
+
+}
